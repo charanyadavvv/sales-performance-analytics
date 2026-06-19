@@ -27,3 +27,13 @@ Analyzed retail sales data using Python to identify trends, regional performance
 * Exploratory Data Analysis (EDA)
 * Python Programming
 * Data Visualization
+## Project Screenshots
+
+### Monthly Sales Trend
+![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
+
+### Sales by Region
+![Sales by Region](screenshots/sales_by_region.png)
+
+### Top Product Categories
+![Top Products](screenshots/top_products.png)
